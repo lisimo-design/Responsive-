@@ -31,7 +31,7 @@ main{
 header{
     /* Photo by Wyatt Ryan on Unsplash */
     /* Replace this with an image that you select */
-    background-image: url(../img/wyatt-ryan-367019-unsplash.jpg);
+    background-image: url(wyatt-ryan-367019-unsplash.jpg);
     background-size: 100% auto;
     background-position: center center;
     font-family:Roboto;
